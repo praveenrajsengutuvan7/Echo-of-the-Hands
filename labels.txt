@@ -1,0 +1,15 @@
+0 Hello
+1 Bathroom
+2 Callme
+3 Dislike
+4 Grab
+5 I Love you
+6 Left
+7 No
+8 Okay
+9 Peace
+10 Pinch
+11 Please
+12 Right
+13 Thank you
+14 Yes
